@@ -2,7 +2,7 @@
 ### 안녕하세요 성장하는 개발자 김동우입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%dang-woo)](https://hits.seeyoufarm.com)
 <!--
-**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dang-woo/dang-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
