@@ -2,7 +2,7 @@
 
 <div align=left> 
   <p>
-  <a href="kdw3917ss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghj3160@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="kdw3917ss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdw3917ss@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <p>
 
 </p>
