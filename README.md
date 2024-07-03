@@ -1,4 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dang%-woo&fontSize=90)
+
+<div align=left> 
+  <p>
+  <a href="kdw3917ss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghj3160@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<p>
+
+</p>
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KooHyunJung&show_icons=true&hide_border=true&&theme=react&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KooHyunJung&layout=compact&hide_border=true&theme=react)
+  
+  
+ 
 ### 안녕하세요 성장하는 개발자 김동우입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%dang-woo)](https://hits.seeyoufarm.com)
 <!--
