@@ -3,16 +3,14 @@
 
   <p>
   <a href="mailto:kdw3917ss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdw3917ss@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<p>
 
-</p>
 
 
   
   
  
 ### 안녕하세요 개발자 김동우입니다.👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%dang-woo)](https://hits.seeyoufarm.com)
+
 <!--
 **dang-woo/dang-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
